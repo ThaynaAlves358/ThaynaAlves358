@@ -12,7 +12,7 @@ influência de alguns familiares que atuam na aréa minha curiosidade pelo unive
  
 ###
  
-<p align="left">- Futuro Desenvolvedor Web<br>- Estudante de Sistemas de Informação<br>- Estágiaria de Suporte de TI na Fricon</p>
+<p align="left">- Futura Desenvolvedora Web<br>- Estudante de Sistemas de Informação<br>- Estágiaria de Suporte de TI na Fricon</p>
  
 ###
  
