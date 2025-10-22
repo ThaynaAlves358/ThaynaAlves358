@@ -39,30 +39,5 @@ influência de alguns familiares que atuam na aréa minha curiosidade pelo unive
  
  
 ###
- 
-<h2 align="left">Estatísticas</h2>
- 
-###
- 
-<div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=matheeusvilar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false&order=1%22 height="150" alt="gráfico de estatísticas" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheeusvilar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&order=2%22 height="150" alt="gráfico de idiomas" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=matheeusvilar&radius=16&theme=github-dark&area=true&order=5%22 height="300" alt="gráfico de atividade" />
-</div>
- 
-###
- 
-<h2 align="left">Redes sociais</h2>
- 
-###
- 
-<div align="left">
-<a href="https://www.linkedin.com/in/thayna-alves-8576ba226" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg%22 width="52" height="40" alt="logotipo do LinkedIn" />
-</a>
 
-</div>
- 
-###
- 
    
